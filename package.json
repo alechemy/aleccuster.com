@@ -1,8 +1,9 @@
 {
-  "name": "aleccuster.com_mvp",
+  "name": "aleccuster.com-mvp",
   "version": "1.0.0",
   "description": "",
   "author": "Alec Custer",
+  "repository": "github:alechemy/aleccuster.com-mvp",
   "scripts": {
     "build": "cp ./node_modules/mvp.css/mvp.css ."
   },

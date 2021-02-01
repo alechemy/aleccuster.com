@@ -1,0 +1,13 @@
+{
+  "name": "aleccuster.com_mvp",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Alec Custer",
+  "scripts": {
+    "build": "cp ./node_modules/mvp.css/mvp.css ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mvp.css": "^1.6.3"
+  }
+}

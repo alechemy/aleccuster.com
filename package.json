@@ -1,9 +1,9 @@
 {
-  "name": "aleccuster.com-mvp",
+  "name": "aleccuster.com",
   "version": "1.0.0",
   "description": "My lightweight, no-JS portfolio site.",
   "author": "Alec Custer",
-  "repository": "github:alechemy/aleccuster.com-mvp",
+  "repository": "github:alechemy/aleccuster.com",
   "scripts": {
     "build": "npm run clean && mkdir -p dist/static && npm run copy && npm run critical",
     "clean": "rm -rf dist",

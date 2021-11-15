@@ -2,6 +2,8 @@
 
 My lightweight, no-JS portfolio site.
 
+![Great report card](./lighthouse.png)
+
 # Things used
 
 - [MVP.css](https://andybrewer.github.io/mvp/) - Classless yet classy stylesheet.

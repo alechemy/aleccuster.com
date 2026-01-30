@@ -1,6 +1,6 @@
 # [aleccuster.com](https://aleccuster.com)
 
-My lightweight, no-JS portfolio site.
+My lightweight, low-JS portfolio site.
 
 ![Great report card](./lighthouse.png)
 
